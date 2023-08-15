@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D student at department of Electrical and Computer Engineering, George Mason University. I received my bachlar degree from Wuhan University of Technology and master degree fron Hongkong University of Science and Technology. My research area is NextG Wireless Security and wireless networking.
+I am a first-year Ph.D student at department of Electrical and Computer Engineering, George Mason University. I received my bachlar degree from Wuhan University of Technology and master degree from Hongkong University of Science and Technology. My research area is NextG Wireless Security and wireless networking.
 
 
 
